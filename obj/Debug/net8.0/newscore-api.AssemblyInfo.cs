@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("newscore-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c95ebb89e6e9b7fccde9986cd30acf04c9f1fd2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("newscore-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("newscore-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
